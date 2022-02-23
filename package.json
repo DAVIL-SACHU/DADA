@@ -1,14 +1,14 @@
 {
-  "name": "NEWBOT",
+  "name": "RDX_V2",
   "version": "2.0.0",
-  "description": "RDX is the Modified Version of WhatsAsena, Made By @KINGS-AS with Baileys.",
-  "main": "./NEWBOT/bot.js",
+  "description": "RDX is the Modified Version of WhatsAsena, Made By @KINGS-AS ",
+  "main": "./RDX_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KFAJINN/NEWBOT.git"
+    "url": "git+https://github.com/KINGS-AS/RDX_V2.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "KFAJINN",
-  "developer": "@KFAJINN / @farhan-dqz",
+  "author": "KINGS-AS",
+  "developer": "@KINGS-AS / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/KFAJINN/NEWBOT/issues"
+    "url": "https://github.com/KINGS-AS/RDX_V2/issues"
   },
-  "homepage": "https://github.com/KFAJINN/NEWBOT#readme",
+  "homepage": "https://github.com/KINGS-AS/RDX_V2#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
