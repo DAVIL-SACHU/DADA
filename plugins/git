@@ -1,0 +1,28 @@
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const axios = require('axios');
+const config = require('../config');
+const fs = require("fs")
+const Language = require('../language');
+const Lang = Language.getString('gitlink');
+
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
+
+    var respoimage = await axios.get(config.LOGO, { responseType: 'arraybuffer' })
+
+
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('RDX V2 LOGO.png'), mimetype: Mimetype.png, caption: `〔 BOT LINK 〕
+╭─➤ <————««ʀᴅx ᴠ𝟸»»————>
+│❖ ʟɪɴᴋ : https://tinyurl.com/RDXV2LINK
+│❖ᴏᴡɴᴇʀ :  https://bit.ly/3JIrOmE
+│❖ 🌐 ᴅᴇᴠᴇʟᴏᴘᴇʀs 🌐
+│❖ ᴋɪɴɢ ᴀs 
+│❖ ᴠɪᴢ ᴢᴇʀ
+│❖ ᴘʀɪɴᴄᴇ ʀᴜᴅʜ
+│❖ ᴀᴋᴀʀsʜ-sɪʀ
+│❖ ғᴀʀʜᴀɴ-ᴅǫᴢ 
+╰────────────────❋ཻུ۪۪➹
+
+`}) 
+
+})); 
