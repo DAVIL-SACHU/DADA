@@ -63,7 +63,7 @@
 
 @PrinceRudh
 
-@farhan-dqz
+@terror-boy
 
 ## DEVELOPER'S
 
