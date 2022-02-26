@@ -6,7 +6,6 @@ const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
 const Config = require('../config')
-const anything = require('../media/rdx');
 const googleTTS = require('google-translate-tts');
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
