@@ -10,11 +10,11 @@
 <a href="#"><img title="DADA" src="https://img.shields.io/badge/DADA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/KING-AS"><img title="Author" src="https://img.shields.io/badge/Author-KINGS-AS/DADA?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/KINGS-AS"><img title="Author" src="https://img.shields.io/badge/Author-KINGS-AS/DADA?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/KING-AS">KING-AS</a> to make it public
+Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,15 +39,15 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@KINGS-AS/DADA-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@KINGS-AS/DADA)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/KING-AS/DADA/fork)
+ Click [FORK](https://github.com/KINGS-AS/DADA/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KING-AS/DADA copy this url and change KING-AS with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/DADA copy this url and change KINGS-AS with your github username and click go<br>
 
 ----
 
@@ -111,7 +111,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/KING-AS/DADA
+$ git clone https://github.com/KINGS-AS/DADA
 $ cd DADA
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -121,7 +121,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/KING-AS/DADA
+$ git clone https://github.com/KINGS-AS/DADA
 $ cd DADA
 $ chmod +x *
 $ npm i
@@ -143,7 +143,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
  <div align="center">
     
- [![KING-AS](https://github.com/KING-AS.png?size=100)](https://github.com/KINGS-AS)| [![KTB](https://imgur.com/lgvPieA.png?size=100)](https://terror-boy.github.io)  |  [![Prince Rudh](https://github.com/PrinceRudh.png?size=100)](https://github.com/PrinceRudh) | [![](https://github.com/Viz-Zer.png?size=100)](https://github.com/Viz-Zer) | [![Akarsh-Sir](https://github.com/MrAxenzo.png?size=100)](https://github.com/MrAxenzo) 
+ [![KING-AS](https://github.com/KINGS-AS.png?size=100)](https://king-as.github.io)| [![KTB](https://imgur.com/lgvPieA.png?size=100)](https://terror-boy.github.io)  |  [![Prince Rudh](https://github.com/PrinceRudh.png?size=100)](https://github.com/PrinceRudh) | [![](https://github.com/Viz-Zer.png?size=100)](https://github.com/Viz-Zer) | [![Akarsh-Sir](https://github.com/MrAxenzo.png?size=100)](https://github.com/MrAxenzo) 
 ----|----|----|----|----
 [Abhiram Sachu](https://github.com/KINGS-AS) | [ K T B ](https://github.com/terror-boy) | [Prince Rudh](https://github.com/PrinceRudh) | [Pʀᴀɴᴀᴠ Sᴇʀ](https://github.com/Viz-Zer) | [Akarsh-Sir](https://github.com/MrAxenzo) 
 Developer, Bug Fixes, Modules, Base |  Co -Developer, Bugs & Errors Fixes, Add Modules, Commits | Developer, Bug Fixes, Modules , Error Fixed | Modifying  as   public | Bug Fixes, Modules
