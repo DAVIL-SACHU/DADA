@@ -1,14 +1,14 @@
 {
-  "name": "RDX_V2",
+  "name": "DADA",
   "version": "2.0.0",
-  "description": "RDX is the Modified Version of WhatsAsena, Made By @KINGS-AS ",
-  "main": "./RDX_V2/bot.js",
+  "description": "DADA is the Modified Version of WhatsAsena, Made By @KINGS-AS ",
+  "main": "./DADA/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KINGS-AS/RDX_V2.git"
+    "url": "git+https://github.com/KINGS-AS/DADA.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "KINGS-AS",
-  "developer": "@KINGS-AS / @farhan-dqz",
+  "developer": "@KINGS-AS / @PrinceRudh",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/KINGS-AS/RDX_V2/issues"
+    "url": "https://github.com/KINGS-AS/DADA/issues"
   },
-  "homepage": "https://github.com/KINGS-AS/RDX_V2#readme",
+  "homepage": "https://github.com/KINGS-AS/DADA#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
