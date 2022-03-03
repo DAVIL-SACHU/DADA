@@ -51,6 +51,32 @@ bash <(curl -L https://t.ly/tHxh)
 
 ----
 
+## BOT INFORMATION
+
+------
+
+
+  ### TOTAL REPO VIEWS 🔮
+
+![Visitor Count](https://profile-counter.glitch.me/KINGS-AS/count.svg)
+  
+### TOTAL WEBSITE VISIT 🌐
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rdx-whtsapp-bot-website.yolasite.com/&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://rdx-whtsapp-bot-website.yolasite.com/)
+
+
+[![RDX](https://readme-typing-svg.herokuapp.com?font=&color=%23001FF7&vCenter=true&multiline=true&height=80&lines=HI+WELCOME+TO+DADA+BOT+REPO;Thanks+to+MY++DEVELOPERS)](NOTHING)
+
+
+  <p align="center">
+  <a href="httsp://github.com/KINGS-AS/DADA">
+    <img src="https://img.shields.io/github/repo-size/KINGS-AS/DADA?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/KINGS-AS/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
+<a href="https://github.com/KINGS-AS/DADA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KINGS-AS/DADA?color=blue&style=flat-square"></a>
+<a href="https://github.com/KINGS-AS/DADA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KINGS-AS/DADA?color=blue&style=flat-square"></a>
+<a href="https://github.com/KINGS-AS/DADA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KINGS-AS/DADA?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="https://instagram.com/king_as__ofc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
@@ -60,16 +86,15 @@ bash <(curl -L https://t.ly/tHxh)
 <a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
-  <p align="center">
-  <a href="httsp://github.com/KING-AS/DADA">
-    <img src="https://img.shields.io/github/repo-size/KING-AS/DADA?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/KINGS-AS/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
-<a href="https://github.com/KING-AS/DADA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KING-AS/DADA?color=blue&style=flat-square"></a>
-<a href="https://github.com/KING-AS/DADA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KING-AS/DADA?color=blue&style=flat-square"></a>
-<a href="https://github.com/KING-AS/DADA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KING-AS/DADA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
+### ```Thanks to Developers```
+
+@Viz-Zer
+
+@MrAxenzo
+
+@PrinceRudh
+
+@terror-boy
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
