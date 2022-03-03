@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(config.LOGO, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('RDX V2 LOGO.png'), mimetype: Mimetype.png, caption: `〔 BOT LINK 〕
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('Dadalogo.jpg'), mimetype: Mimetype.png, caption: `〔 BOT LINK 〕
 ╭─➤ <————««ʀᴅx ᴠ𝟸»»————>
 │❖ ʟɪɴᴋ :https://tinyurl.com/RDXV2LINK
 │❖ᴏᴡɴᴇʀ :  https://bit.ly/3JIrOmE
