@@ -1,3 +1,6 @@
+RDX V2 NAME CHANGE DADA
+
+
 
 [![KING-AS](https://telegra.ph/file/7c94b6caec81a6e7e521e.jpg?size=100000)](https://github.com/KING-AS)
 
