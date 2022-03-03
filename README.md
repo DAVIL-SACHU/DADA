@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝘿𝘼𝘿𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝘼𝘽𝙃𝙄𝙍𝘼𝙈+𝙎𝘼𝘾𝙃𝙐;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000BF7&lines=%F0%9D%99%92%F0%9D%99%80%F0%9D%99%87%F0%9D%98%BE%F0%9D%99%8A%F0%9D%99%88%F0%9D%99%80+%F0%9D%99%8F%F0%9D%99%8A+%F0%9D%98%BF%F0%9D%98%BC%F0%9D%98%BF%F0%9D%98%BC+%F0%9D%98%BD%F0%9D%99%82%F0%9D%99%88+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;%F0%9D%98%BE%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%8F%F0%9D%99%80+%F0%9D%98%BD%F0%9D%99%94+%F0%9D%98%BC%F0%9D%98%BD%F0%9D%99%83%F0%9D%99%84%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%88+%F0%9D%99%8E%F0%9D%98%BC%F0%9D%98%BE%F0%9D%99%83%F0%9D%99%90;%F0%9D%99%8F%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%89%F0%9D%99%86%F0%9D%99%8E+%F0%9D%99%8F%F0%9D%99%8A+%F0%9D%99%88%F0%9D%99%94+%F0%9D%98%BF%F0%9D%99%80%F0%9D%99%91%F0%9D%99%80%F0%9D%99%87%F0%9D%99%8A%F0%9D%99%8B%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%8E;%F0%9D%99%8B%F0%9D%99%8D%F0%9D%99%84%F0%9D%99%89%F0%9D%98%BE%F0%9D%99%80+%F0%9D%99%8D%F0%9D%99%90%F0%9D%98%BF%F0%9D%99%83+%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF+%F0%9D%99%8F%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%8D%F0%9D%99%8A%F0%9D%99%8D+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%94+%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF;%F0%9D%99%91%F0%9D%99%84%F0%9D%99%95+%F0%9D%99%95%F0%9D%99%80%F0%9D%99%8D++%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF+%F0%9D%99%88%F0%9D%99%8D+%F0%9D%98%BC%F0%9D%99%93%F0%9D%99%80%F0%9D%99%89%F0%9D%99%95%F0%9D%99%8A)](https://github.com/KINGS-AS/DADA)
 
  </a>
 </p>
@@ -64,7 +64,7 @@ bash <(curl -L https://t.ly/tHxh)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rdx-whtsapp-bot-website.yolasite.com/&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://rdx-whtsapp-bot-website.yolasite.com/)
 
 
-[![RDX](https://readme-typing-svg.herokuapp.com?font=&color=%23001FF7&vCenter=true&multiline=true&height=80&lines=HI+WELCOME+TO+DADA+BOT+REPO;Thanks+to+MY++DEVELOPERS)](NOTHING)
+[![DADA](https://readme-typing-svg.herokuapp.com?font=&color=%23001FF7&vCenter=true&multiline=true&height=80&lines=DADA+BGM+BOT+REPO;Thanks+To+All)](NOTHING)
 
 
   <p align="center">
