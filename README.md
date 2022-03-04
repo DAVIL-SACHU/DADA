@@ -30,11 +30,7 @@ Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/DADA)
      </div>
-<br>
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+
   ### If there is an error deploying, try the following steps
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
@@ -48,6 +44,40 @@ bash <(curl -L https://t.ly/tHxh)
  Click [FORK](https://github.com/KINGS-AS/DADA/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/DADA copy this url and change KINGS-AS with your github username and click go<br>
+
+<br>
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+
+```
+bash <(curl -L https://t.ly/tHxh)
+```
+
+-----
+
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/KINGS-AS/DADA
+$ cd DADA
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/KINGS-AS/DADA
+$ cd DADA
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
 
 ----
 
@@ -105,30 +135,6 @@ Click WA logo to Join Support Group 👇
        
   </div>
   
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/KINGS-AS/DADA
-$ cd DADA
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/KINGS-AS/DADA
-$ cd DADA
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
 
 
 ### ⚠️ Warning! 
