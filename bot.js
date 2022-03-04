@@ -29,7 +29,7 @@ const Language = require('./language');
 const Lang = Language.getString('updater');
 
 // Sql
-const DarkAnjelDB = config.DATABASE.define('DarkAnjel', {
+const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
@@ -70,9 +70,9 @@ Array.prototype.remove = function() {
     return this;
 };
 
-async function DarkAnjel () {
+async function WhatsAsena () {
     await config.DATABASE.sync();
-    var StrSes_Db = await DarkAnjelDB.findAll({
+    var StrSes_Db = await WhatsAsenaDB.findAll({
         where: {
           info: 'StringSession'
         }
@@ -99,7 +99,7 @@ async function DarkAnjel () {
 
         const authInfo = conn.base64EncodedAuthInfo();
         if (StrSes_Db.length < 1) {
-            await DarkAnjelDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
+            await WhatsAsenaDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
         } else {
             await StrSes_Db[0].update({ value: Session.createStringSession(authInfo) });
         }
@@ -369,4 +369,4 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     }
 }
 
-DarkAnjel();
+WhatsAsena();
