@@ -14,38 +14,38 @@ async function whatsAsena() {
   conn.logger.level = 'warn';
   conn.version = [3, 3234, 9]
   const rows = [
- {title: 'Whitedevil bot support group:-', description: "\n\n*https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1*", rowId:"wd1"},
- {title: 'Password in heroku:-', description: "\n\n• whitedevil\n• Whitedevil\n\n\n```you can take any one```", rowId:"wd2"},
- {title: 'All bot support group:-', description: "\n\n*https://chat.whatsapp.com/CY7wJC070o04yxfTuT1yPf*", rowId:"wd3"}
+ {title: 'DADA Owner:-', description: "\n\n*number click the link ➡️ https://wa.me/message/NTMRGW7FESALN1*", rowId:"wd1"},
+ {title: 'Password in heroku:-', description: "\n\nThis bot have no password", rowId:"wd2"},
+ {title: 'DADA BOT support group:-', description: "\n\n*https://chat.whatsapp.com/CmE3aGdrhJUBmcIFNS09sQ*", rowId:"wd3"}
 ]
 
 const sections = [{title: "please check it", rows: rows}]
 
 const button = {
  buttonText: 'Click Me Here!',
- description: "*Hello,Thank you for using Whitedevil*\n\n ```please check it```",
+ description: "*Hello,Thank you for using DADA*\n\n ```please check it```",
  sections: sections,
  listType: 1
 }
 
 
   conn.on('connecting', async () => {
-    console.log(`${chalk.green.bold('Karthik_terror-boy ')}${chalk.green.bold('-WhiteDevil')}
-${chalk.white.italic('WhiteDevilString code recipient')}
-${chalk.blue.bold('ℹ️  Connecting WhiteDevil... Please wait.')}`);
+    console.log(`${chalk.green.bold('KING AS')}${chalk.green.bold('-DADA')}
+${chalk.white.italic('DADA String code recipient')}
+${chalk.blue.bold('ℹ️  Connecting WHATSAPP... Please wait.')}`);
   });
 
   conn.on('open', async () => { 
     console.log(
-      chalk.green.bold('WHITEDEVIL QR Code: '),
-      'WHITE;;;' +
+      chalk.green.bold('DADA QR Code: '),
+      'DADA;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
       )
     );
     await conn.sendMessage(
       conn.user.jid,
-      'WHITE;;;' +
+      'DADA;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
       ),
@@ -54,29 +54,29 @@ ${chalk.blue.bold('ℹ️  Connecting WhiteDevil... Please wait.')}`);
     if (conn.user.jid.startsWith('91')) {
       await conn.sendMessage(
         conn.user.jid,
-        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ WhiteDevil Successfully Scanned✅️*\n*▪️Thanks For Choosing WhiteDevil 💞*',
+        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ DADA QR Successfully Scanned✅️*\n*▪️Thanks For Choosing DADA BOT 💞*',
         MessageType.text
       );
       await conn.sendMessage(
-        conn.user.jid, fs.readFileSync("./boot/bott.mp3"), MessageType.audio, { mimetype: Mimetype.mp4Audio, ptt: true});
+        conn.user.jid, fs.readFileSync("./Audio.mp3"), MessageType.audio, { mimetype: Mimetype.mp4Audio, ptt: true});
         await conn.sendMessage( conn.user.jid, button, MessageType.listMessage);
         await conn.sendMessage(
         conn.user.jid,
-        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*THIS IS ANNOUNCEMENT MESSAGE*\n\n*THERE WILL BE NO REPLY FROM MY OWNWER FOR MONDAY-FRIDAY BECAUSE OF BUSY IN CLASS* \n\n *YOU CAN REPORT BUGS & ERRORS IN OFFICIAL BOT GROUP[ https://chat.whatsapp.com/CY7wJC070o04yxfTuT1yPf ]* \n*FOR ALL BOT SUPPORT* \n *YOU SHOULD MENTION ME IN THIS GROUP OR SAY THE NAME OF BOT.......*\n\n\n\n           --- *BOT OWNER*',
+        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*THIS IS ANNOUNCEMENT MESSAGE*\n\n*THERE WILL BE NO REPLY FROM MY OWNWER FOR MONDAY-FRIDAY BECAUSE OF BUSY IN CLASS* \n\n *YOU CAN REPORT BUGS & ERRORS IN SECOND OWNER NUMBER ➡️ https://wa.me/qr/HS3QLQZF67FXC1* \n\n\n\n           --- *BOT OWNER*',
         MessageType.text
       );
     } else {
       await conn.sendMessage(
         conn.user.jid,
-        '*~__~* *'+ conn.user.name + ' ~__~*\n\n*▪️ WhiteDevil Successfully Scanned✅️*\n*▪️Thanks For Choosing WhiteDevil 💞*',
+        '*~__~* *'+ conn.user.name + ' ~__~*\n\n*▪️ DADA QR Successfully Scanned✅️*\n*▪️Thanks For Choosing DADA BOT 💞*',
         MessageType.text
       );
       await conn.sendMessage(
-        conn.user.jid, fs.readFileSync("./boot/bott.mp3"), MessageType.audio, { mimetype: Mimetype.mp4Audio, ptt: true});
+        conn.user.jid, fs.readFileSync("./Audio.mp3"), MessageType.audio, { mimetype: Mimetype.mp4Audio, ptt: true});
         await conn.sendMessage( conn.user.jid, button, MessageType.listMessage);
         await conn.sendMessage(
         conn.user.jid,
-        '*~__~* *'+ conn.user.name + ' ~__~*\n\n*THIS IS ANNOUNCEMENT MESSAGE*\n\n*THERE WILL BE NO REPLY FROM MY OWNWER FOR MONDAY-FRIDAY BECAUSE OF BUSY IN CLASS* \n\n *YOU CAN REPORT BUGS & ERRORS IN OFFICIAL BOT GROUP[ https://chat.whatsapp.com/CY7wJC070o04yxfTuT1yPf ]* \n*FOR ALL BOT SUPPORT* \n *YOU SHOULD MENTION ME IN THIS GROUP OR SAY THE NAME OF BOT.......*\n\n\n\n           --- *BOT OWNER*',
+        '*~__~* *'+ conn.user.name + ' ~__~*\n\n*THIS IS ANNOUNCEMENT MESSAGE*\n\n*THERE WILL BE NO REPLY FROM MY OWNWER FOR MONDAY-FRIDAY BECAUSE OF BUSY IN CLASS* \n\n *YOU CAN REPORT BUGS & ERRORS IN SECOND OWNER NUMBER ➡️ https://wa.me/qr/HS3QLQZF67FXC1* \n\n\n\n           --- *BOT OWNER*',
         MessageType.text
       );
     }
