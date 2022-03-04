@@ -1,7 +1,11 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 KINGS AS.
+
 Licensed under the  GPL-3.0 License;
+
 you may not use this file except in compliance with the License.
-WhatsAsena - Yusuf Usta 
+
+DADA - ABHIRAM SACHU
+
 */
 
 const fs = require("fs");
@@ -25,7 +29,7 @@ const Language = require('./language');
 const Lang = Language.getString('updater');
 
 // Sql
-const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
+const DarkAnjelDB = config.DATABASE.define('DarkAnjel', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
@@ -66,9 +70,9 @@ Array.prototype.remove = function() {
     return this;
 };
 
-async function whatsAsena () {
+async function DarkAnjel () {
     await config.DATABASE.sync();
-    var StrSes_Db = await WhatsAsenaDB.findAll({
+    var StrSes_Db = await DarkAnjelDB.findAll({
         where: {
           info: 'StringSession'
         }
@@ -95,14 +99,14 @@ async function whatsAsena () {
 
         const authInfo = conn.base64EncodedAuthInfo();
         if (StrSes_Db.length < 1) {
-            await WhatsAsenaDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
+            await DarkAnjelDB.create({ info: "StringSession", value: Session.createStringSession(authInfo) });
         } else {
             await StrSes_Db[0].update({ value: Session.createStringSession(authInfo) });
         }
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
+        console.log(`${chalk.green.bold('DARK')}${chalk.blue.bold('ANJEL')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     });
@@ -209,7 +213,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 		
                    await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name).replace('{mention}', tag),MessageType.text,{ contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}});
             }
-          }  //thanks to farhan      
+          }  //thanks to Abhiram     
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
         var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
@@ -228,7 +232,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 		    const tag = '@' + msg.messageStubParameters[0].split('@')[0]
 		    
                 await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => {
-                    //created by afnanplk
+                    //created by abhiram
                
 			await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} }); });                       
             
