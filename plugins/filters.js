@@ -61,7 +61,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/m
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi','hi','love','Hacker','Bro','Myre','welcome','Ayin','Ha','Mm','No','owner']
+const array = ['Air','Ara','Avel','Ayin','Back','Bgm','Boss','Bot','Bro','Chunks','Friend','Group','Ha','Hacker','He','Hi','King','Kozhi','Life','Love you','Love','Mm','Myer','Myre','Nanban','Nanbans','No','Oh','On','Oo','RDX','Sachu','Sad','Sed no','Sed','Set','Song','Sorry','Sry','Sslc','Vijay','Wait','Ya','Yes','alive','bgm','coming','entry','group','hello','hi','kattukozhi','love','me','mention','music','njan','owner','pewer','poda','power','vannu','welcome']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -94,7 +94,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/men
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi','hi','love','Hacker','Bro','Myre','welcome','Ayin','Ha','Mm','No','owner']
+const array = ['Air','Ara','Avel','Ayin','Back','Bgm','Boss','Bot','Bro','Chunks','Friend','Group','Ha','Hacker','He','Hi','King','Kozhi','Life','Love you','Love','Mm','Myer','Myre','Nanban','Nanbans','No','Oh','On','Oo','RDX','Sachu','Sad','Sed no','Sed','Set','Song','Sorry','Sry','Sslc','Vijay','Wait','Ya','Yes','alive','bgm','coming','entry','group','hello','hi','kattukozhi','love','me','mention','music','njan','owner','pewer','poda','power','vannu','welcome']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
