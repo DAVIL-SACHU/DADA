@@ -148,7 +148,7 @@
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
             "required": false,
-            "value": "39999600"
+            "value": "8055"
         },
         "WORK_TYPE": {
             "description": "Bot Working Type. If you use “public”, everyone can use the bot. Bot if you use “private”, only you can use your bot.",
