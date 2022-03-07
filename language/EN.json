@@ -82,7 +82,7 @@
             "RESTART_DESC": "Restart Bot",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Bot",
-            "SHUTDOWN_MSG": "```Appo Seri Tata📴```",
+            "SHUTDOWN_MSG": "```Appo Seri bye😒👋```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -153,7 +153,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Bot ini varathilla 🥲```",
+            "KICKME": "```Bye bye! Bot is going🙂```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -172,7 +172,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "RBGING": "```Bot Removing background...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -192,7 +192,7 @@
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
+            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song ammede pattinte```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "✮⃝🕊️𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆 𝐘𝐎𝐔𝐑 𝐒𝐎𝐍𝐆✮⃝🕊️",
             "NAMEY": "NAME",
@@ -201,7 +201,7 @@
             "RATING": "RATING",
             "UPLOADING_SONG": "✮⃝🕊️✿𝐔𝐏𝐋𝐎𝐀𝐃𝐈𝐍𝐆 𝐘𝐎𝐔𝐑 𝐒𝐎𝐍𝐆✿✮⃝🕊️",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/shorts/zZUp2mYzyMg?feature=share ```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/shorts/zZUp2mYzyMg?feature=share```",
             "DOWNLOADING_VIDEO": "```Downloading```",
             "UPLOADING_VIDEO": "```Uploading```",
             "LOADING": "```Downloading video```",
@@ -215,9 +215,9 @@
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
+            "STICKER_DESC": "It converts your replied photo/video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Wait cheyy ippo taram```"
+            "DOWNLOADING": "```Creating sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -242,9 +242,9 @@
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*New update available for Bot!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Povalle Update cheyyatte...😅```",
+            "UPDATING": "```⚙️Wait Bot Upgrading⚙️```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*Update Kazinju ✅*",
+            "UPDATED": "*Bot is upgraded✅*",
             "UPDATED_LOCAL": "*✅ Updated!*",
             "AFTER_UPDATE": "*Restarting*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
