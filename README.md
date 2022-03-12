@@ -5,8 +5,8 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sseIn7b.jpeg" width="300" height="300"/>
-  <p align="center">
+  <a href="https://bit.ly/3lC8I7t"><img src="DADAGIF.gif" >
+     <p align="center">
 <a href="#"><img title="DADA" src="https://img.shields.io/badge/DADA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
