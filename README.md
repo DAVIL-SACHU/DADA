@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000BF7&lines=%F0%9D%99%92%F0%9D%99%80%F0%9D%99%87%F0%9D%98%BE%F0%9D%99%8A%F0%9D%99%88%F0%9D%99%80+%F0%9D%99%8F%F0%9D%99%8A+%F0%9D%98%BF%F0%9D%98%BC%F0%9D%98%BF%F0%9D%98%BC+%F0%9D%98%BD%F0%9D%99%82%F0%9D%99%88+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;%F0%9D%98%BE%F0%9D%99%8D%F0%9D%99%80%F0%9D%98%BC%F0%9D%99%8F%F0%9D%99%80+%F0%9D%98%BD%F0%9D%99%94+%F0%9D%98%BC%F0%9D%98%BD%F0%9D%99%83%F0%9D%99%84%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%88+%F0%9D%99%8E%F0%9D%98%BC%F0%9D%98%BE%F0%9D%99%83%F0%9D%99%90;%F0%9D%99%8F%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%89%F0%9D%99%86%F0%9D%99%8E+%F0%9D%99%8F%F0%9D%99%8A+%F0%9D%99%88%F0%9D%99%94+%F0%9D%98%BF%F0%9D%99%80%F0%9D%99%91%F0%9D%99%80%F0%9D%99%87%F0%9D%99%8A%F0%9D%99%8B%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%8E;%F0%9D%99%8B%F0%9D%99%8D%F0%9D%99%84%F0%9D%99%89%F0%9D%98%BE%F0%9D%99%80+%F0%9D%99%8D%F0%9D%99%90%F0%9D%98%BF%F0%9D%99%83+%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF+%F0%9D%99%8F%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%8D%F0%9D%99%8A%F0%9D%99%8D+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%94+%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF;%F0%9D%99%91%F0%9D%99%84%F0%9D%99%95+%F0%9D%99%95%F0%9D%99%80%F0%9D%99%8D++%F0%9D%98%BC%F0%9D%99%89%F0%9D%98%BF+%F0%9D%99%88%F0%9D%99%8D+%F0%9D%98%BC%F0%9D%99%93%F0%9D%99%80%F0%9D%99%89%F0%9D%99%95%F0%9D%99%8A)](https://github.com/KINGS-AS/DADA)
 
+ 
  </a>
 </p>
 <div align="center">
-  <a href="https://bit.ly/3lC8I7t"><img src="DADAGIF.gif" >
-     <p align="center">
+  <img border-radius: 15px src="https://i.imgur.com/sseIn7b.jpeg" width="300" height="300"/>
+  <p align="center">
 <a href="#"><img title="DADA" src="https://img.shields.io/badge/DADA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
@@ -32,7 +33,7 @@ Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it 
      </div>
 
   ### If there is an error deploying, try the following steps
-  
+
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
 2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@KINGS-AS/DADA)
@@ -44,40 +45,6 @@ Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it 
  Click [FORK](https://github.com/KINGS-AS/DADA/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/DADA copy this url and change KINGS-AS with your github username and click go<br>
-
-<br>
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-
-```
-bash <(curl -L https://t.ly/tHxh)
-```
-
------
-
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/KINGS-AS/DADA
-$ cd DADA
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/KINGS-AS/DADA
-$ cd DADA
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
 
 ----
 
