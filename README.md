@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it 
 
   ### If there is an error deploying, try the following steps
 
-1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
+1. If you dont have a github account create a account. Click [GITHUB SIGN UP](https://github.com/signup/)
 
 2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@KINGS-AS/DADA)
  
