@@ -83,15 +83,6 @@ Project created by <a href="https://github.com/KINGS-AS">KING-AS</a> to make it 
 <a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
-### ```Thanks to Developers```
-
-@Viz-Zer
-
-@MrAxenzo
-
-@PrinceRudh
-
-@terror-boy
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -102,23 +93,24 @@ Click WA logo to Join Support Group 👇
        
   </div>
   
+### ```Thanks to Developers```
+
+@Viz-Zer
+
+@MrAxenzo
+
+@PrinceRudh
+
+@terror-boy
 
 
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
-## DEVELOPER'S
+## DEVELOPER'S 🚀
 
  <div align="center">
     
- [![KING-AS](https://github.com/KINGS-AS.png?size=100)](https://king-as.github.io)| [![KTB](https://imgur.com/lgvPieA.png?size=100)](https://terror-boy.github.io)  |  [![Prince Rudh](https://github.com/PrinceRudh.png?size=100)](https://github.com/PrinceRudh) | [![](https://github.com/Viz-Zer.png?size=100)](https://github.com/Viz-Zer) | [![Akarsh-Sir](https://github.com/MrAxenzo.png?size=100)](https://github.com/MrAxenzo) 
+ [![KING-AS](https://i.imgur.com/yzTMB3h.jpeg)](https://king-as.github.io)| [![KTB](https://imgur.com/lgvPieA.png?size=100)](https://terror-boy.github.io)  |  [![Prince Rudh](https://github.com/PrinceRudh.png?size=100)](https://github.com/PrinceRudh) | [![](https://github.com/Viz-Zer.png?size=100)](https://github.com/Viz-Zer) | [![Akarsh-Sir](https://github.com/MrAxenzo.png?size=100)](https://github.com/MrAxenzo) 
 ----|----|----|----|----
-[Abhiram Sachu](https://github.com/KINGS-AS) | [ K T B ](https://github.com/terror-boy) | [Prince Rudh](https://github.com/PrinceRudh) | [Pʀᴀɴᴀᴠ Sᴇʀ](https://github.com/Viz-Zer) | [Akarsh-Sir](https://github.com/MrAxenzo) 
+[ A S ](https://github.com/KINGS-AS) | [ K T B ](https://github.com/terror-boy) | [Prince Rudh](https://github.com/PrinceRudh) | [Pʀᴀɴᴀᴠ Sᴇʀ](https://github.com/Viz-Zer) | [Akarsh-Sir](https://github.com/MrAxenzo) 
 Developer, Bug Fixes, Modules, Base |  Co -Developer, Bugs & Errors Fixes, Add Modules, Commits | Developer, Bug Fixes, Modules , Error Fixed | Modifying  as   public | Bug Fixes, Modules
   </div>
     
@@ -126,6 +118,13 @@ Developer, Bug Fixes, Modules, Base |  Co -Developer, Bugs & Errors Fixes, Add M
 
     
 
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, I am executives do not accept responsibility.
+By establishing the DADA, you are deemed to have accepted these responsibilities.
+```
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
