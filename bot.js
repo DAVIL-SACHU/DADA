@@ -150,18 +150,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    );
-        
-         if (config.LANG == 'EN') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/Dadalogo.jpg"), MessageType.image, { caption: `ᴅᴀᴅᴀ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ${conn.user.name}!\n\n*🆘 General Help For You! 🆘*\n\n🔹 *.alive:* Check if the bot is running.\n\n🔹 *.list:* Shows the complete list of commands.\n\n🔹 *.restart:* It Restarts the bot.\n\n🔹 *.shutdown:* \n And one more this command for worker off \n worker on have no command \n you go heroku and on worker🚀 `});
-        
-         } else if (config.LANG == 'ML') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/Dadalogo.jpg"), MessageType.image, { caption: `ᴅᴀᴅᴀ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ${conn.user.name}!\n\n*🆘 പൊതുവായ സഹായം 🆘*\n\n🔹 *.alive:* ബോട്ട് പ്രവർത്തിക്കുന്നുണ്ടോയെന്ന് പരിശോധിക്കുന്നു.\n\n🔹 *.list:* കമാൻഡുകളുടെ പൂർണ്ണ ലിസ്റ്റ് കാണിക്കുന്നു.\n\n🔹 *.restart:* ഇത് ബോട്ടിനെ പുനരാരംഭിപ്പിക്കുന്നു.\n\n🔹 *.shutdown:* ഇത് ഷട്ട്ഡൗൺ/ബോട്ട് ഓഫ് ചെയ്യുന്നു.\n\n *⚠ മുന്നറിയിപ്പ്, നിങ്ങൾ ഷട്ട്ഡൗൺ/ഓഫ് ചെയ്യുകയാണെങ്കിൽ, ബോട്ട് ഓണാക്കാൻ ഒരു കമാൻഡും ഇല്ല അതിനാൽ നിങ്ങൾ Heroku ഇല്പോയി worker ഓൺ ചെയ്യണം`});
-              
-              }
-     }); 
-         
-        else {
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/Dadalogo.jpg"), MessageType.image, { caption: `ᴅᴀᴅᴀ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ${conn.user.name}!\n\n*🆘 General Help For You! 🆘*\n\n🔹 *.alive:* Check if the bot is running.\n\n🔹 *.list:* Shows the complete list of commands.\n\n🔹 *.restart:* It Restarts the bot.\n\n🔹 *.shutdown:* \n And one more this command for worker off \n worker on have no command \n you go heroku and on worker🚀 `});    
+                } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
                         (commit) => {
@@ -170,7 +160,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n ask support group before updating' + degisiklikler + '```', MessageType.text 
+                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n ask support group before updating' + degisiklikler + '```', MessageType.text
+                ); 
             } 
       }
         });
